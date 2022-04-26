@@ -1,0 +1,14 @@
+com/sontireels/MainApplication.java
+ com.sontireels.MainApplication
+ com.sontireels.MainApplication$1
+com/sontireels/BuildConfig.java
+ com.sontireels.BuildConfig
+com/sontireels/ReactNativeFlipper.java
+ com.sontireels.ReactNativeFlipper
+ com.sontireels.ReactNativeFlipper$1
+ com.sontireels.ReactNativeFlipper$2
+ com.sontireels.ReactNativeFlipper$2$1
+com/sontireels/MainActivity.java
+ com.sontireels.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

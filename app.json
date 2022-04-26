@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sonti_reels",
+    "slug": "sonti_reels",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sonti_reels"
+}
