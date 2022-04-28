@@ -9,288 +9,288 @@
 9        android:targetSdkVersion="30" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:5:3-75
-11-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:5:20-73
+11-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:5:3-75
+11-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:5:20-73
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:3:3-64
-12-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:3:20-62
+12-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:3:3-64
+12-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:3:20-62
 13    <uses-permission android:name="android.permission.VIBRATE" /> <!-- These require runtime permissions on M -->
-13-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:6:3-63
-13-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:6:20-61
+13-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:6:3-63
+13-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:6:20-61
 14    <uses-permission android:name="android.permission.CAMERA" />
-14-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:8:3-62
-14-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:8:20-60
+14-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:8:3-62
+14-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:8:20-60
 15    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-15-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:9:1-66
-15-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:9:18-64
+15-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:9:1-66
+15-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:9:18-64
 16    <uses-permission android:name="android.permission.CAMERA" />
-16-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:8:3-62
-16-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:8:20-60
+16-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:8:3-62
+16-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:8:20-60
 17    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-17-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:9:1-66
-17-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:9:18-64
+17-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:9:1-66
+17-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:9:18-64
 18    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-18-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:12:1-76
-18-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:12:18-73
+18-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:12:1-76
+18-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:12:18-73
 19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-19-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:13:1-77
-19-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:13:18-74
+19-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:13:1-77
+19-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:13:18-74
 20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-20-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:12:1-76
-20-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:12:18-73
+20-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:12:1-76
+20-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:12:18-73
 21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- END OPTIONAL PERMISSIONS -->
-21-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:13:1-77
-21-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:13:18-74
+21-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:13:1-77
+21-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:13:18-74
 22    <queries>
-22-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:18:3-25:13
+22-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:18:3-25:13
 23
 24        <!-- Support checking for http(s) links via the Linking API -->
 25        <intent>
-25-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:20:5-24:14
+25-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:20:5-24:14
 26            <action android:name="android.intent.action.VIEW" />
-26-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:21:7-59
-26-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:21:15-56
+26-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:21:7-59
+26-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:21:15-56
 27
 28            <category android:name="android.intent.category.BROWSABLE" />
-28-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:22:7-68
-28-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:22:17-65
+28-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:22:7-68
+28-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:22:17-65
 29
 30            <data android:scheme="https" />
-30-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:23:7-38
-30-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:23:13-35
+30-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:23:7-38
+30-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:23:13-35
 31        </intent>
 32        <!-- Query open documents -->
 33        <intent>
-33-->[:expo-file-system] /home/deekshitha/Videos/shorts/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-21:18
+33-->[:expo-file-system] C:\Users\raksh\Desktop\shorts-1\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-21:18
 34            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
-34-->[:expo-file-system] /home/deekshitha/Videos/shorts/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-79
-34-->[:expo-file-system] /home/deekshitha/Videos/shorts/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:21-76
+34-->[:expo-file-system] C:\Users\raksh\Desktop\shorts-1\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-79
+34-->[:expo-file-system] C:\Users\raksh\Desktop\shorts-1\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:21-76
 35        </intent>
 36    </queries>
 37
 38    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-38-->[com.facebook.flipper:flipper:0.54.0] /home/deekshitha/.gradle/caches/transforms-3/62ece1a98ef095db320a1cbbfb42e6fd/transformed/jetified-flipper-0.54.0/AndroidManifest.xml:16:5-76
-38-->[com.facebook.flipper:flipper:0.54.0] /home/deekshitha/.gradle/caches/transforms-3/62ece1a98ef095db320a1cbbfb42e6fd/transformed/jetified-flipper-0.54.0/AndroidManifest.xml:16:22-73
+38-->[com.facebook.flipper:flipper:0.54.0] C:\Users\raksh\.gradle\caches\transforms-3\62ece1a98ef095db320a1cbbfb42e6fd\transformed\jetified-flipper-0.54.0\AndroidManifest.xml:16:5-76
+38-->[com.facebook.flipper:flipper:0.54.0] C:\Users\raksh\.gradle\caches\transforms-3\62ece1a98ef095db320a1cbbfb42e6fd\transformed\jetified-flipper-0.54.0\AndroidManifest.xml:16:22-73
 39
 40    <uses-feature
-40-->[:react-native-camera] /home/deekshitha/Videos/shorts/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+40-->[:react-native-camera] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:11:5-13:36
 41        android:name="android.hardware.camera"
-41-->[:react-native-camera] /home/deekshitha/Videos/shorts/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:12:9-47
+41-->[:react-native-camera] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:12:9-47
 42        android:required="false" />
-42-->[:react-native-camera] /home/deekshitha/Videos/shorts/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:13:9-33
+42-->[:react-native-camera] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:13:9-33
 43    <uses-feature
-43-->[:react-native-camera] /home/deekshitha/Videos/shorts/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+43-->[:react-native-camera] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:14:5-16:36
 44        android:name="android.hardware.camera.autofocus"
-44-->[:react-native-camera] /home/deekshitha/Videos/shorts/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+44-->[:react-native-camera] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:15:9-57
 45        android:required="false" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
-45-->[:react-native-camera] /home/deekshitha/Videos/shorts/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
+45-->[:react-native-camera] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:16:9-33
 46    <!-- <uses-sdk android:minSdkVersion="14"/> -->
 47    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-47-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/deekshitha/.gradle/caches/transforms-3/511457a218e9627bfa5707655c700b9d/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
-47-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/deekshitha/.gradle/caches/transforms-3/511457a218e9627bfa5707655c700b9d/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:22-76
+47-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\raksh\.gradle\caches\transforms-3\511457a218e9627bfa5707655c700b9d\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+47-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\raksh\.gradle\caches\transforms-3\511457a218e9627bfa5707655c700b9d\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:22-76
 48    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-48-->[com.android.installreferrer:installreferrer:1.0] /home/deekshitha/.gradle/caches/transforms-3/578302940b1b997d596bacf069bf3f66/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
-48-->[com.android.installreferrer:installreferrer:1.0] /home/deekshitha/.gradle/caches/transforms-3/578302940b1b997d596bacf069bf3f66/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
+48-->[com.android.installreferrer:installreferrer:1.0] C:\Users\raksh\.gradle\caches\transforms-3\da4dad4f49dfeb1074f556c1847c167a\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+48-->[com.android.installreferrer:installreferrer:1.0] C:\Users\raksh\.gradle\caches\transforms-3\da4dad4f49dfeb1074f556c1847c167a\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107
 49
 50    <application
-50-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:27:3-37:17
+50-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:27:3-37:17
 51        android:name="com.sontireels.MainApplication"
-51-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:27:16-47
+51-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:27:16-47
 52        android:allowBackup="false"
-52-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:27:162-189
+52-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:27:162-189
 53        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-53-->[androidx.core:core:1.3.1] /home/deekshitha/.gradle/caches/transforms-3/b8a588cea3c1ea044bbdaf78204da0de/transformed/core-1.3.1/AndroidManifest.xml:24:18-86
+53-->[androidx.core:core:1.3.1] C:\Users\raksh\.gradle\caches\transforms-3\b8a588cea3c1ea044bbdaf78204da0de\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
 54        android:debuggable="true"
 55        android:icon="@mipmap/ic_launcher"
-55-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:27:81-115
+55-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:27:81-115
 56        android:label="@string/app_name"
-56-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:27:48-80
+56-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:27:48-80
 57        android:roundIcon="@mipmap/ic_launcher_round"
-57-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:27:116-161
+57-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:27:116-161
 58        android:theme="@style/AppTheme"
-58-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:27:190-221
+58-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:27:190-221
 59        android:usesCleartextTraffic="true" >
-59-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:27:222-257
+59-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:27:222-257
 60        <meta-data
-60-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:28:5-103
+60-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:28:5-103
 61            android:name="expo.modules.updates.EXPO_UPDATE_URL"
-61-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:28:16-67
+61-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:28:16-67
 62            android:value="YOUR-APP-URL-HERE" />
-62-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:28:68-101
+62-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:28:68-101
 63        <meta-data
-63-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:29:5-112
+63-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:29:5-112
 64            android:name="expo.modules.updates.EXPO_SDK_VERSION"
-64-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:29:16-68
+64-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:29:16-68
 65            android:value="YOUR-APP-SDK-VERSION-HERE" />
-65-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:29:69-110
+65-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:29:69-110
 66
 67        <activity
-67-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:30:5-35:16
+67-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:30:5-35:16
 68            android:name="com.sontireels.MainActivity"
-68-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:30:15-43
+68-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:30:15-43
 69            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-69-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:30:77-154
+69-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:30:77-154
 70            android:label="@string/app_name"
-70-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:30:44-76
+70-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:30:44-76
 71            android:launchMode="singleTask"
-71-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:30:155-186
+71-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:30:155-186
 72            android:theme="@style/Theme.App.SplashScreen"
-72-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:30:230-275
+72-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:30:230-275
 73            android:windowSoftInputMode="adjustResize" >
-73-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:30:187-229
+73-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:30:187-229
 74            <intent-filter>
-74-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:31:7-34:23
+74-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:31:7-34:23
 75                <action android:name="android.intent.action.MAIN" />
-75-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:32:9-60
-75-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:32:17-58
+75-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:32:9-60
+75-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:32:17-58
 76
 77                <category android:name="android.intent.category.LAUNCHER" />
-77-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:33:9-68
-77-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:33:19-66
+77-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:33:9-68
+77-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:33:19-66
 78            </intent-filter>
 79        </activity>
 80        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-80-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:36:5-81
-80-->/home/deekshitha/Videos/shorts/android/app/src/main/AndroidManifest.xml:36:15-79
+80-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:36:5-81
+80-->C:\Users\raksh\Desktop\shorts-1\android\app\src\main\AndroidManifest.xml:36:15-79
 81
 82        <provider
-82-->[:react-native-image-picker] /home/deekshitha/Videos/shorts/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+82-->[:react-native-image-picker] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
 83            android:name="com.imagepicker.ImagePickerProvider"
-83-->[:react-native-image-picker] /home/deekshitha/Videos/shorts/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-63
+83-->[:react-native-image-picker] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-63
 84            android:authorities="com.sontireels.imagepickerprovider"
-84-->[:react-native-image-picker] /home/deekshitha/Videos/shorts/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-71
+84-->[:react-native-image-picker] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-71
 85            android:exported="false"
-85-->[:react-native-image-picker] /home/deekshitha/Videos/shorts/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+85-->[:react-native-image-picker] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
 86            android:grantUriPermissions="true" >
-86-->[:react-native-image-picker] /home/deekshitha/Videos/shorts/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+86-->[:react-native-image-picker] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
 87            <meta-data
-87-->[:react-native-image-picker] /home/deekshitha/Videos/shorts/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:70
+87-->[:react-native-image-picker] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:70
 88                android:name="android.support.FILE_PROVIDER_PATHS"
-88-->[:react-native-image-picker] /home/deekshitha/Videos/shorts/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+88-->[:react-native-image-picker] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-67
 89                android:resource="@xml/imagepicker_provider_paths" />
-89-->[:react-native-image-picker] /home/deekshitha/Videos/shorts/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+89-->[:react-native-image-picker] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
 90        </provider>
 91        <provider
-91-->[:expo-file-system] /home/deekshitha/Videos/shorts/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-34:20
+91-->[:expo-file-system] C:\Users\raksh\Desktop\shorts-1\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-34:20
 92            android:name="expo.modules.filesystem.FileSystemFileProvider"
-92-->[:expo-file-system] /home/deekshitha/Videos/shorts/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-74
+92-->[:expo-file-system] C:\Users\raksh\Desktop\shorts-1\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-74
 93            android:authorities="com.sontireels.FileSystemFileProvider"
-93-->[:expo-file-system] /home/deekshitha/Videos/shorts/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-74
+93-->[:expo-file-system] C:\Users\raksh\Desktop\shorts-1\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:13-74
 94            android:exported="false"
-94-->[:expo-file-system] /home/deekshitha/Videos/shorts/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-37
+94-->[:expo-file-system] C:\Users\raksh\Desktop\shorts-1\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-37
 95            android:grantUriPermissions="true" >
-95-->[:expo-file-system] /home/deekshitha/Videos/shorts/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-47
+95-->[:expo-file-system] C:\Users\raksh\Desktop\shorts-1\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-47
 96            <meta-data
-96-->[:react-native-image-picker] /home/deekshitha/Videos/shorts/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:70
+96-->[:react-native-image-picker] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:70
 97                android:name="android.support.FILE_PROVIDER_PATHS"
-97-->[:react-native-image-picker] /home/deekshitha/Videos/shorts/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+97-->[:react-native-image-picker] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-67
 98                android:resource="@xml/file_system_provider_paths" />
-98-->[:react-native-image-picker] /home/deekshitha/Videos/shorts/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+98-->[:react-native-image-picker] C:\Users\raksh\Desktop\shorts-1\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
 99        </provider>
 100
 101        <meta-data
-101-->[:expo-modules-core] /home/deekshitha/Videos/shorts/node_modules/expo-modules-core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-14:89
+101-->[:expo-modules-core] C:\Users\raksh\Desktop\shorts-1\node_modules\expo-modules-core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:89
 102            android:name="org.unimodules.core.AppLoader#react-native-headless"
-102-->[:expo-modules-core] /home/deekshitha/Videos/shorts/node_modules/expo-modules-core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-79
+102-->[:expo-modules-core] C:\Users\raksh\Desktop\shorts-1\node_modules\expo-modules-core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-79
 103            android:value="expo.modules.adapters.react.apploader.RNHeadlessAppLoader" />
-103-->[:expo-modules-core] /home/deekshitha/Videos/shorts/node_modules/expo-modules-core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-86
+103-->[:expo-modules-core] C:\Users\raksh\Desktop\shorts-1\node_modules\expo-modules-core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-86
 104
 105        <service
-105-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /home/deekshitha/.gradle/caches/transforms-3/295c9a8445f48732c87f28ec6a0a6beb/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:9:9-15:19
+105-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] C:\Users\raksh\.gradle\caches\transforms-3\295c9a8445f48732c87f28ec6a0a6beb\transformed\jetified-play-services-mlkit-barcode-scanning-16.2.0\AndroidManifest.xml:9:9-15:19
 106            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
-106-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /home/deekshitha/.gradle/caches/transforms-3/295c9a8445f48732c87f28ec6a0a6beb/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:10:13-91
+106-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] C:\Users\raksh\.gradle\caches\transforms-3\295c9a8445f48732c87f28ec6a0a6beb\transformed\jetified-play-services-mlkit-barcode-scanning-16.2.0\AndroidManifest.xml:10:13-91
 107            android:directBootAware="true"
-107-->[com.google.mlkit:common:17.2.0] /home/deekshitha/.gradle/caches/transforms-3/5349852cdf8df1ff33d5ddd2119083b0/transformed/jetified-common-17.2.0/AndroidManifest.xml:17:13-43
+107-->[com.google.mlkit:common:17.2.0] C:\Users\raksh\.gradle\caches\transforms-3\5349852cdf8df1ff33d5ddd2119083b0\transformed\jetified-common-17.2.0\AndroidManifest.xml:17:13-43
 108            android:exported="false" >
-108-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /home/deekshitha/.gradle/caches/transforms-3/295c9a8445f48732c87f28ec6a0a6beb/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:11:13-37
+108-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] C:\Users\raksh\.gradle\caches\transforms-3\295c9a8445f48732c87f28ec6a0a6beb\transformed\jetified-play-services-mlkit-barcode-scanning-16.2.0\AndroidManifest.xml:11:13-37
 109            <meta-data
-109-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /home/deekshitha/.gradle/caches/transforms-3/295c9a8445f48732c87f28ec6a0a6beb/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:12:13-14:85
+109-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] C:\Users\raksh\.gradle\caches\transforms-3\295c9a8445f48732c87f28ec6a0a6beb\transformed\jetified-play-services-mlkit-barcode-scanning-16.2.0\AndroidManifest.xml:12:13-14:85
 110                android:name="com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar"
-110-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /home/deekshitha/.gradle/caches/transforms-3/295c9a8445f48732c87f28ec6a0a6beb/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:13:17-120
+110-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] C:\Users\raksh\.gradle\caches\transforms-3\295c9a8445f48732c87f28ec6a0a6beb\transformed\jetified-play-services-mlkit-barcode-scanning-16.2.0\AndroidManifest.xml:13:17-120
 111                android:value="com.google.firebase.components.ComponentRegistrar" />
-111-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /home/deekshitha/.gradle/caches/transforms-3/295c9a8445f48732c87f28ec6a0a6beb/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:14:17-82
+111-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] C:\Users\raksh\.gradle\caches\transforms-3\295c9a8445f48732c87f28ec6a0a6beb\transformed\jetified-play-services-mlkit-barcode-scanning-16.2.0\AndroidManifest.xml:14:17-82
 112            <meta-data
-112-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /home/deekshitha/.gradle/caches/transforms-3/d26e39535a1a261a83d45ae556ee1b27/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:12:13-14:85
+112-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] C:\Users\raksh\.gradle\caches\transforms-3\d26e39535a1a261a83d45ae556ee1b27\transformed\jetified-play-services-mlkit-face-detection-16.2.0\AndroidManifest.xml:12:13-14:85
 113                android:name="com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar"
-113-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /home/deekshitha/.gradle/caches/transforms-3/d26e39535a1a261a83d45ae556ee1b27/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:13:17-114
+113-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] C:\Users\raksh\.gradle\caches\transforms-3\d26e39535a1a261a83d45ae556ee1b27\transformed\jetified-play-services-mlkit-face-detection-16.2.0\AndroidManifest.xml:13:17-114
 114                android:value="com.google.firebase.components.ComponentRegistrar" />
-114-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /home/deekshitha/.gradle/caches/transforms-3/d26e39535a1a261a83d45ae556ee1b27/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:14:17-82
+114-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] C:\Users\raksh\.gradle\caches\transforms-3\d26e39535a1a261a83d45ae556ee1b27\transformed\jetified-play-services-mlkit-face-detection-16.2.0\AndroidManifest.xml:14:17-82
 115            <meta-data
-115-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /home/deekshitha/.gradle/caches/transforms-3/873664b8b704bdcc0e7d7a041aab8430/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:12:13-14:85
+115-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] C:\Users\raksh\.gradle\caches\transforms-3\873664b8b704bdcc0e7d7a041aab8430\transformed\jetified-play-services-mlkit-text-recognition-16.3.0\AndroidManifest.xml:12:13-14:85
 116                android:name="com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar"
-116-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /home/deekshitha/.gradle/caches/transforms-3/873664b8b704bdcc0e7d7a041aab8430/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:13:17-114
+116-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] C:\Users\raksh\.gradle\caches\transforms-3\873664b8b704bdcc0e7d7a041aab8430\transformed\jetified-play-services-mlkit-text-recognition-16.3.0\AndroidManifest.xml:13:17-114
 117                android:value="com.google.firebase.components.ComponentRegistrar" />
-117-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /home/deekshitha/.gradle/caches/transforms-3/873664b8b704bdcc0e7d7a041aab8430/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:14:17-82
+117-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] C:\Users\raksh\.gradle\caches\transforms-3\873664b8b704bdcc0e7d7a041aab8430\transformed\jetified-play-services-mlkit-text-recognition-16.3.0\AndroidManifest.xml:14:17-82
 118            <meta-data
-118-->[com.google.mlkit:vision-common:16.5.0] /home/deekshitha/.gradle/caches/transforms-3/1dea126ebe3b1042abbc503d09ec7f3a/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:12:13-14:85
+118-->[com.google.mlkit:vision-common:16.5.0] C:\Users\raksh\.gradle\caches\transforms-3\1dea126ebe3b1042abbc503d09ec7f3a\transformed\jetified-vision-common-16.5.0\AndroidManifest.xml:12:13-14:85
 119                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
-119-->[com.google.mlkit:vision-common:16.5.0] /home/deekshitha/.gradle/caches/transforms-3/1dea126ebe3b1042abbc503d09ec7f3a/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:13:17-124
+119-->[com.google.mlkit:vision-common:16.5.0] C:\Users\raksh\.gradle\caches\transforms-3\1dea126ebe3b1042abbc503d09ec7f3a\transformed\jetified-vision-common-16.5.0\AndroidManifest.xml:13:17-124
 120                android:value="com.google.firebase.components.ComponentRegistrar" />
-120-->[com.google.mlkit:vision-common:16.5.0] /home/deekshitha/.gradle/caches/transforms-3/1dea126ebe3b1042abbc503d09ec7f3a/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:14:17-82
+120-->[com.google.mlkit:vision-common:16.5.0] C:\Users\raksh\.gradle\caches\transforms-3\1dea126ebe3b1042abbc503d09ec7f3a\transformed\jetified-vision-common-16.5.0\AndroidManifest.xml:14:17-82
 121            <meta-data
-121-->[com.google.mlkit:common:17.2.0] /home/deekshitha/.gradle/caches/transforms-3/5349852cdf8df1ff33d5ddd2119083b0/transformed/jetified-common-17.2.0/AndroidManifest.xml:20:13-22:85
+121-->[com.google.mlkit:common:17.2.0] C:\Users\raksh\.gradle\caches\transforms-3\5349852cdf8df1ff33d5ddd2119083b0\transformed\jetified-common-17.2.0\AndroidManifest.xml:20:13-22:85
 122                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
-122-->[com.google.mlkit:common:17.2.0] /home/deekshitha/.gradle/caches/transforms-3/5349852cdf8df1ff33d5ddd2119083b0/transformed/jetified-common-17.2.0/AndroidManifest.xml:21:17-120
+122-->[com.google.mlkit:common:17.2.0] C:\Users\raksh\.gradle\caches\transforms-3\5349852cdf8df1ff33d5ddd2119083b0\transformed\jetified-common-17.2.0\AndroidManifest.xml:21:17-120
 123                android:value="com.google.firebase.components.ComponentRegistrar" />
-123-->[com.google.mlkit:common:17.2.0] /home/deekshitha/.gradle/caches/transforms-3/5349852cdf8df1ff33d5ddd2119083b0/transformed/jetified-common-17.2.0/AndroidManifest.xml:22:17-82
+123-->[com.google.mlkit:common:17.2.0] C:\Users\raksh\.gradle\caches\transforms-3\5349852cdf8df1ff33d5ddd2119083b0\transformed\jetified-common-17.2.0\AndroidManifest.xml:22:17-82
 124        </service>
 125
 126        <provider
-126-->[com.google.mlkit:common:17.2.0] /home/deekshitha/.gradle/caches/transforms-3/5349852cdf8df1ff33d5ddd2119083b0/transformed/jetified-common-17.2.0/AndroidManifest.xml:9:9-13:38
+126-->[com.google.mlkit:common:17.2.0] C:\Users\raksh\.gradle\caches\transforms-3\5349852cdf8df1ff33d5ddd2119083b0\transformed\jetified-common-17.2.0\AndroidManifest.xml:9:9-13:38
 127            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
-127-->[com.google.mlkit:common:17.2.0] /home/deekshitha/.gradle/caches/transforms-3/5349852cdf8df1ff33d5ddd2119083b0/transformed/jetified-common-17.2.0/AndroidManifest.xml:10:13-78
+127-->[com.google.mlkit:common:17.2.0] C:\Users\raksh\.gradle\caches\transforms-3\5349852cdf8df1ff33d5ddd2119083b0\transformed\jetified-common-17.2.0\AndroidManifest.xml:10:13-78
 128            android:authorities="com.sontireels.mlkitinitprovider"
-128-->[com.google.mlkit:common:17.2.0] /home/deekshitha/.gradle/caches/transforms-3/5349852cdf8df1ff33d5ddd2119083b0/transformed/jetified-common-17.2.0/AndroidManifest.xml:11:13-69
+128-->[com.google.mlkit:common:17.2.0] C:\Users\raksh\.gradle\caches\transforms-3\5349852cdf8df1ff33d5ddd2119083b0\transformed\jetified-common-17.2.0\AndroidManifest.xml:11:13-69
 129            android:exported="false"
-129-->[com.google.mlkit:common:17.2.0] /home/deekshitha/.gradle/caches/transforms-3/5349852cdf8df1ff33d5ddd2119083b0/transformed/jetified-common-17.2.0/AndroidManifest.xml:12:13-37
+129-->[com.google.mlkit:common:17.2.0] C:\Users\raksh\.gradle\caches\transforms-3\5349852cdf8df1ff33d5ddd2119083b0\transformed\jetified-common-17.2.0\AndroidManifest.xml:12:13-37
 130            android:initOrder="99" />
-130-->[com.google.mlkit:common:17.2.0] /home/deekshitha/.gradle/caches/transforms-3/5349852cdf8df1ff33d5ddd2119083b0/transformed/jetified-common-17.2.0/AndroidManifest.xml:13:13-35
+130-->[com.google.mlkit:common:17.2.0] C:\Users\raksh\.gradle\caches\transforms-3\5349852cdf8df1ff33d5ddd2119083b0\transformed\jetified-common-17.2.0\AndroidManifest.xml:13:13-35
 131
 132        <service
-132-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/deekshitha/.gradle/caches/transforms-3/511457a218e9627bfa5707655c700b9d/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+132-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\raksh\.gradle\caches\transforms-3\511457a218e9627bfa5707655c700b9d\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
 133            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-133-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/deekshitha/.gradle/caches/transforms-3/511457a218e9627bfa5707655c700b9d/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+133-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\raksh\.gradle\caches\transforms-3\511457a218e9627bfa5707655c700b9d\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
 134            android:exported="false" >
-134-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/deekshitha/.gradle/caches/transforms-3/511457a218e9627bfa5707655c700b9d/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+134-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\raksh\.gradle\caches\transforms-3\511457a218e9627bfa5707655c700b9d\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
 135            <meta-data
-135-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/deekshitha/.gradle/caches/transforms-3/511457a218e9627bfa5707655c700b9d/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+135-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\raksh\.gradle\caches\transforms-3\511457a218e9627bfa5707655c700b9d\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
 136                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-136-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/deekshitha/.gradle/caches/transforms-3/511457a218e9627bfa5707655c700b9d/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+136-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\raksh\.gradle\caches\transforms-3\511457a218e9627bfa5707655c700b9d\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
 137                android:value="cct" />
-137-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/deekshitha/.gradle/caches/transforms-3/511457a218e9627bfa5707655c700b9d/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+137-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\raksh\.gradle\caches\transforms-3\511457a218e9627bfa5707655c700b9d\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
 138        </service>
 139        <service
-139-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/deekshitha/.gradle/caches/transforms-3/0801d4147fb9f718271c2887170ff19e/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+139-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\raksh\.gradle\caches\transforms-3\0801d4147fb9f718271c2887170ff19e\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
 140            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-140-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/deekshitha/.gradle/caches/transforms-3/0801d4147fb9f718271c2887170ff19e/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+140-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\raksh\.gradle\caches\transforms-3\0801d4147fb9f718271c2887170ff19e\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
 141            android:exported="false"
-141-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/deekshitha/.gradle/caches/transforms-3/0801d4147fb9f718271c2887170ff19e/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+141-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\raksh\.gradle\caches\transforms-3\0801d4147fb9f718271c2887170ff19e\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
 142            android:permission="android.permission.BIND_JOB_SERVICE" >
-142-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/deekshitha/.gradle/caches/transforms-3/0801d4147fb9f718271c2887170ff19e/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+142-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\raksh\.gradle\caches\transforms-3\0801d4147fb9f718271c2887170ff19e\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
 143        </service>
 144
 145        <receiver
-145-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/deekshitha/.gradle/caches/transforms-3/0801d4147fb9f718271c2887170ff19e/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+145-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\raksh\.gradle\caches\transforms-3\0801d4147fb9f718271c2887170ff19e\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
 146            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-146-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/deekshitha/.gradle/caches/transforms-3/0801d4147fb9f718271c2887170ff19e/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
+146-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\raksh\.gradle\caches\transforms-3\0801d4147fb9f718271c2887170ff19e\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
 147            android:exported="false" />
-147-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/deekshitha/.gradle/caches/transforms-3/0801d4147fb9f718271c2887170ff19e/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+147-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\raksh\.gradle\caches\transforms-3\0801d4147fb9f718271c2887170ff19e\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
 148
 149        <activity
-149-->[com.google.android.gms:play-services-base:17.6.0] /home/deekshitha/.gradle/caches/transforms-3/45c5e1541d951ecc6e05aa51feb50f75/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+149-->[com.google.android.gms:play-services-base:17.6.0] C:\Users\raksh\.gradle\caches\transforms-3\45c5e1541d951ecc6e05aa51feb50f75\transformed\jetified-play-services-base-17.6.0\AndroidManifest.xml:23:9-26:75
 150            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-150-->[com.google.android.gms:play-services-base:17.6.0] /home/deekshitha/.gradle/caches/transforms-3/45c5e1541d951ecc6e05aa51feb50f75/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+150-->[com.google.android.gms:play-services-base:17.6.0] C:\Users\raksh\.gradle\caches\transforms-3\45c5e1541d951ecc6e05aa51feb50f75\transformed\jetified-play-services-base-17.6.0\AndroidManifest.xml:24:13-79
 151            android:exported="false"
-151-->[com.google.android.gms:play-services-base:17.6.0] /home/deekshitha/.gradle/caches/transforms-3/45c5e1541d951ecc6e05aa51feb50f75/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+151-->[com.google.android.gms:play-services-base:17.6.0] C:\Users\raksh\.gradle\caches\transforms-3\45c5e1541d951ecc6e05aa51feb50f75\transformed\jetified-play-services-base-17.6.0\AndroidManifest.xml:25:13-37
 152            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-152-->[com.google.android.gms:play-services-base:17.6.0] /home/deekshitha/.gradle/caches/transforms-3/45c5e1541d951ecc6e05aa51feb50f75/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+152-->[com.google.android.gms:play-services-base:17.6.0] C:\Users\raksh\.gradle\caches\transforms-3\45c5e1541d951ecc6e05aa51feb50f75\transformed\jetified-play-services-base-17.6.0\AndroidManifest.xml:26:13-72
 153
 154        <meta-data
-154-->[com.google.android.gms:play-services-basement:17.6.0] /home/deekshitha/.gradle/caches/transforms-3/ae72e08d8f977554640a57938629887a/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+154-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\raksh\.gradle\caches\transforms-3\ae72e08d8f977554640a57938629887a\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
 155            android:name="com.google.android.gms.version"
-155-->[com.google.android.gms:play-services-basement:17.6.0] /home/deekshitha/.gradle/caches/transforms-3/ae72e08d8f977554640a57938629887a/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
+155-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\raksh\.gradle\caches\transforms-3\ae72e08d8f977554640a57938629887a\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
 156            android:value="@integer/google_play_services_version" />
-156-->[com.google.android.gms:play-services-basement:17.6.0] /home/deekshitha/.gradle/caches/transforms-3/ae72e08d8f977554640a57938629887a/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+156-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\raksh\.gradle\caches\transforms-3\ae72e08d8f977554640a57938629887a\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
 157    </application>
 158
 159</manifest>
