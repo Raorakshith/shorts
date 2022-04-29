@@ -1,4 +1,4 @@
-import React ,{useRef,useState}from 'react';
+import React ,{useRef,useState, useEffect}from 'react';
 import { View, Text, Dimensions, TouchableOpacity, SafeAreaView,Image } from 'react-native';
 import Feather from 'react-native-vector-icons/Feather';
 import ReelsComponent from './ReelsComponent';
@@ -7,11 +7,16 @@ import VideoRecorder from 'react-native-beautiful-video-recorder';
 import { RNS3 } from 'react-native-aws3';
 import { AWSConstants } from './utils/AWSConstants';
 import {  launchCamera } from 'react-native-image-picker';
+import { videoData } from './Database';
 
 const Reels = () => {
     const [filePath, setFilePath] = useState({});
     const [uploadSuccessMessage, setUploadSuccessMessage] = useState('');
-    const videoRecorder = useRef(null)
+    const [videodata, setvideodata] = useState([]);
+    const videoRecorder = useRef(null);
+    useEffect(()=>{
+        setvideodata(videoData);
+    },[]);
     const startRecord = () => {
         let options = {
             mediaType: 'video',
@@ -82,16 +87,16 @@ const Reels = () => {
                     ToastAndroid.show('uploaded Sucessfully', ToastAndroid.SHORT)
 
                 );
-                /**
-                 * {
-                 *   postResponse: {
-                 *     bucket: "your-bucket",
-                 *     etag : "9f620878e06d28774406017480a59fd4",
-                 *     key: "uploads/image.png",
-                 *     location: "https://bucket.s3.amazonaws.com/**.png"
-                 *   }
-                 * }
-                 */
+                const dataset = {
+                    video: location,
+                    postProfile: require('./storage/images/post1.jpg'),
+                    title: 'Ram_Charan',
+                    description: 'Feel the buity of nature',
+                    likes: '245k',
+                    isLike: false,
+                };
+                setvideodata([...videodata,dataset]);
+                
             }).catch((error) => {
                 console.log(error);
             });
@@ -140,7 +145,7 @@ const Reels = () => {
                
             </View>
             <VideoRecorder ref={videoRecorder} compressQuality={'medium'} />
-            <ReelsComponent />
+            <ReelsComponent data={videodata}/>
             
         </View>
     );

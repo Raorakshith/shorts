@@ -4,7 +4,7 @@ import { SwiperFlatList } from 'react-native-swiper-flatlist';
 import { videoData } from './Database';
 import SingleReel from './SingleReel';
 
-const ReelsComponent = () => {
+const ReelsComponent = (props) => {
     const [currentIndex, setCurrentIndex] = useState(0);
 
     const handleChangeIndexValue = ({ index }) => {
@@ -15,7 +15,7 @@ const ReelsComponent = () => {
         <SwiperFlatList
             vertical={true}
             onChangeIndex={handleChangeIndexValue}
-            data={videoData}
+            data={props.data}
             renderItem={({ item, index }) => (
                 <SingleReel item={item} index={index} currentIndex={currentIndex} />
             )}
