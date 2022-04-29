@@ -2,7 +2,7 @@
 
 export const videoData = [
     {
-        video: require('./storage/videos/video1.mp4'),
+        video: 'https://firebasestorage.googleapis.com/v0/b/sconti-e7f3a.appspot.com/o/2021-12-03T14%3A07%3A59.553Z?alt=media&token=7c6e8824-14d5-4af7-9e9c-b0a4ee896aec',
         postProfile: require('./storage/images/post1.jpg'),
         title: 'Ram_Charan',
         description: 'Feel the buity of nature',
@@ -10,7 +10,7 @@ export const videoData = [
         isLike: false,
     },
     {
-        video: require('./storage/videos/video2.mp4'),
+        video: 'https://firebasestorage.googleapis.com/v0/b/sconti-e7f3a.appspot.com/o/2021-12-03T14%3A07%3A59.553Z?alt=media&token=7c6e8824-14d5-4af7-9e9c-b0a4ee896aec',
         postProfile: require('./storage/images/post2.jpg'),
         title: 'The_Groot',
         description: "It's a tea time",
@@ -18,7 +18,7 @@ export const videoData = [
         isLike: false,
     },
     {
-        video: require('./storage/videos/video3.mp4'),
+        video: 'https://firebasestorage.googleapis.com/v0/b/sconti-e7f3a.appspot.com/o/2021-12-03T14%3A07%3A59.553Z?alt=media&token=7c6e8824-14d5-4af7-9e9c-b0a4ee896aec',
         postProfile: require('./storage/images/post3.jpg'),
         title: 'loverland',
         description: 'Feel the buity of nature',
@@ -26,7 +26,7 @@ export const videoData = [
         isLike: false,
     },
     {
-        video: require('./storage/videos/video4.mp4'),
+        video: 'https://firebasestorage.googleapis.com/v0/b/sconti-e7f3a.appspot.com/o/2021-12-03T14%3A07%3A59.553Z?alt=media&token=7c6e8824-14d5-4af7-9e9c-b0a4ee896aec',
         postProfile: require('./storage/images/post4.jpg'),
         title: 'mr. bean',
         description: 'How cute it is !!',

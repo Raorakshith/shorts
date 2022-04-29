@@ -140,7 +140,7 @@ const SingleReel = ({ item, index, currentIndex, props }) => {
           repeat={true}
           resizeMode="cover"
           paused={currentIndex == index ? false : true}
-          source={item.video}
+          source={{uri: item.video}}
           muted={mute}
           style={styling.VideoStyle}
         />
